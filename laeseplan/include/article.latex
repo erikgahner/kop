@@ -1,0 +1,134 @@
+\documentclass[12pt, a4paper]{article}
+
+%% fonts
+\usepackage{MnSymbol}
+\usepackage{MinionPro}
+\usepackage[utf8]{inputenc}
+\usepackage{etoolbox}
+\usepackage{adjustbox}
+
+%% tables
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{lscape}
+\usepackage{rotating}
+\usepackage{dcolumn}
+\usepackage[parfill]{parskip}
+
+%% page margins, inter-paragraph space and no chapters
+\usepackage[margin = 1.1in]{geometry}
+\renewcommand{\thesection}{\arabic{section}}
+
+%% bibliography
+\usepackage[american]{babel}
+\usepackage{csquotes}
+\usepackage{biblatex}
+\DeclareLanguageMapping{american}{american-apa}
+
+%% define a dark blue
+\usepackage{color}
+\definecolor{darkblue}{rgb}{0,0,.5}
+
+% Figure positions (and floats)
+\usepackage[format=hang,labelformat=empty,labelsep=none]{caption}
+\captionsetup[figure]{singlelinecheck=off}
+\captionsetup[table]{singlelinecheck=off, justification=justified}
+
+
+%% hyperlinks to references
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor=darkblue, citecolor=darkblue, filecolor=darkblue, urlcolor=darkblue}
+\makeatletter
+\renewcommand\@seccntformat[1]{}
+\makeatother
+
+\usepackage{setspace}
+\onehalfspacing
+
+%% Footnote for tables and figures
+\usepackage{graphicx}
+\makeatletter\def\Gin@i{\Gin@ii[height=0.35\textheight]}\makeatother
+\long\def\clfootnote[#1]#2{\begingroup%
+\def\thefootnote{\fnsymbol{footnote}}\footnote[#1]{#2}\endgroup}
+% \makeatletter\def\Gin@i{\Gin@ii[width=0.8\linewidth]}\makeatother
+
+\BeforeBeginEnvironment{table}{\singlespacing}
+\BeforeBeginEnvironment{tabular}{\begin{adjustbox}{max size={\textwidth}{\textheight}}}
+\AfterEndEnvironment{tabular}{\end{adjustbox}\normalsize\onehalfspacing}
+\AfterEndEnvironment{table}{\normalsize\onehalfspacing}
+
+%% centered section titles
+\usepackage{sectsty}
+% \allsectionsfont{\centering}
+\sectionfont{\large}
+\subsectionfont{\normalsize}
+
+%% Figure path
+% \graphicspath{{./figures/}}
+
+$if(title)$
+\title{$title$}
+$endif$
+
+\author{$for(author)$ \normalsize $author.name$\footnote{$author.affiliation$. Email: $author.email$.} \hspace{0.2in} $endfor$}
+
+\date{\footnotesize{$date$}}
+
+\begin{document}
+$if(title)$
+\maketitle
+$endif$
+
+$for(include-before)$
+$include-before$
+
+$endfor$
+
+{
+\renewcommand{\contentsname}{Indhold}
+\hypersetup{linkcolor=black}
+\setcounter{tocdepth}{2}
+\tableofcontents
+}
+
+
+$if(abstract)$
+
+\begin{abstract}
+\noindent $abstract$
+
+$if(keywords)$
+
+\vspace{0.2in} \noindent \textbf{Keywords:} $keywords$
+
+$endif$
+
+\end{abstract}
+
+$endif$
+
+\newpage
+$body$
+
+$if(natbib)$
+$if(biblio-files)$
+$if(biblio-title)$
+$if(book-class)$
+\renewcommand\bibname{$biblio-title$}
+$else$
+\renewcommand\refname{$biblio-title$}
+$endif$
+$endif$
+\bibliography{$biblio-files$}
+
+$endif$
+$endif$
+$if(biblatex)$
+\printbibliography$if(biblio-title)$[title=$biblio-title$]$endif$
+
+$endif$
+$for(include-after)$
+$include-after$
+
+$endfor$
+\end{document}

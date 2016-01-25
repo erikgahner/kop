@@ -1,0 +1,14 @@
+standalone:
+smart:
+normalize:
+highlight-style: tango
+
+t: latex
+latex-engine: pdflatex
+template: include\article.latex
+bibliography: include\references.bib
+csl: include\apsa.csl
+V: geometry:hmargin=3cm
+   documentclass:article
+   classoption:a4paper
+default-image-extension: png
