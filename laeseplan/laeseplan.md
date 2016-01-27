@@ -107,7 +107,7 @@ Det fundamentale problem i kausalitetsstudier er manglende data. Alt vi kan måle
 
 Fokus vil i denne lektion være på Neyman-Rubins kausalmodel og mere specifikt på, hvordan vi kan definere en kausal effekt. Dette vil danne udgangspunktet for en diskussion af forskellige antagelser og ikke mindst teoretiske såvel som metodiske udfordringer. Hvordan kan vi eksempelvis studere kausale effekter af fænomener, der er uforanderlige?
 
-@imbensrubin2015 introducerer og redegør for historien bag det potentielle udfaldsframework. De sidste dele af kapitel 2 kan læses kursorisk. @holland1986 og @littlerubin2000 giver ligeledes en fin introduktion, hvor de dele der blot er gentagelser fra @imbensrubin2015 kan læses hurtigt. @greinerrubin2011 forholder sig til spørgsmålet om, hvordan vi kan estimere kausaleffekter af hvad vi mener, ikke kan manipuleres.
+@imbensrubin2015 introducerer og redegør for historien bag det potentielle udfaldsframework. De sidste dele af kapitel 2 kan læses kursorisk. @gautieretal2016 viser, at nogle af de antagelser vi bygger på i empiriske studier, ikke altid holder. I nærværende tilfælde _stable unit treatment value assumption_ (SUTVA). Det empiriske studie er et eksperiment, men diskussionen af udforringerne forbunde med at isolere en kausal effekt, er aktuel for alle empiriske studier. @greinerrubin2011 forholder sig til spørgsmålet om, hvordan vi kan estimere kausaleffekter af hvad vi mener, ikke kan manipuleres.
 
 *Påkrævet læsning*: 
 
@@ -115,13 +115,15 @@ Fokus vil i denne lektion være på Neyman-Rubins kausalmodel og mere specifikt på
 
 - @imbensrubin2015: A Brief History of the Potential Outcomes Approach to Causal Inference (Kapitel 2) (21 sider)
 
+- @greinerrubin2011: Causal Effects of Perceived Immutable Characteristics (11 sider)
+
+- @gautieretal2016: Estimating Equilibrium Effects of Job Search Assistance (49 sider)
+
+*Anbefalet læsning*:
+
 - @holland1986: Statistics and Causal Inference (16 sider)
 
 - @littlerubin2000: Causal Effects in Clinical and Epidemiological Studies Via Potential Outcomes: Concepts and Analytical Approaches (25 sider)
-
-- @greinerrubin2011: Causal Effects of Perceived Immutable Characteristics (11 sider)
-
-*Anbefalet læsning*:
 
 - @rubin2005: Causal Inference Using Potential Outcomes: Design, Modeling, Decisions (10 sider)
 
@@ -198,7 +200,7 @@ De fleste af jer vil have læst @adcockcollier2001 på bachelordelen, så denne kan
 
 Eksperimenter er en metodisk guldstandard. Jo mere ens forskningsdesign ligner et eksperiment, desto stærkere er det. Denne undervisningsgang vil fokusere på forskellige typer af eksperimenter (laboratorieeksperimenter, spørgeskemaeksperimenter, felteksperimenter), hvordan de bruges, styrker og svagheder m.v. Foruden dette vil vi også diskutere eksperimenter i forhold til socialpolitik i en dansk kontekst.
 
-@shadishetal2002 og @blomhansenserritzlew2014 giver en indføring i det eksperimentelle design. @hansenpontoppidan2014 er en rapport fra SFI, der redegør for erfaringerne med eksperimenter på det sociale område. Denne tekst er også pensum til sidste undervisningsgang, så vi vil ikke gå for meget i dybden med de praktiske og især etiske aspekter. @falkheckman2009 og @druckmanlupia2012 er sammenlagt syv sider, der er salgstaler for den eksperimentelle metode (sidstnævnte i direkte relation til politologien). @stoker2010 beskriver udfordringerne ved at omdanne viden opnået gennem eksperimenter til politik.
+@shadishetal2002 og @blomhansenserritzlew2014 giver en indføring i det eksperimentelle design. @blomhansenetal2015 er en engelsk version af førnævnte danske artikel, og det der er relevant her er den ene side, der diskuterer relationen mellem intern og ekstern validitet. @hansenpontoppidan2014 er en rapport fra SFI, der redegør for erfaringerne med eksperimenter på det sociale område. Denne tekst er også pensum til sidste undervisningsgang, så vi vil ikke gå for meget i dybden med de praktiske og især etiske aspekter. @druckmanlupia2012 er en salgstale for eksperimentelle metode i relation til samfundsvidenskabelig forskning. @jakobsen2013 er et godt eksempel på et velgennemført felteksperiment. @stoker2010 beskriver udfordringerne ved at omdanne viden opnået gennem eksperimenter til politik.
 
 *Påkrævet læsning*: 
 
@@ -206,15 +208,19 @@ Eksperimenter er en metodisk guldstandard. Jo mere ens forskningsdesign ligner e
 
 - @blomhansenserritzlew2014: Endogenitet og eksperimenter - forskningsdesignet som løsning (19 sider)
 
+- @blomhansenetal2015: Experiments in Public Management Research (side 166) (1 side)
+
 - @hansenpontoppidan2014: Erfaringer med RCT-studier på det sociale område (19 sider)
 
-- @falkheckman2009: Lab Experiments Are a Major Source of Knowledge in the Social Sciences (4 sider)
-
 - @druckmanlupia2012: Experimenting with Politics (3 sider)
+
+- @jakobsen2013: Can Government Initiatives Increase Citizen Coproduction? Results of a Randomized Field Experiment (28 sider)
 
 - @stoker2010: Translating Experiments into Policy (12 sider)
 
 *Anbefalet læsning*:
+
+- @falkheckman2009: Lab Experiments Are a Major Source of Knowledge in the Social Sciences (4 sider)
 
 - @wilsonetal2010: The Art of Laboratory Experimentation (31 sider)
 
