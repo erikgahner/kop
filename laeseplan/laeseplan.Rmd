@@ -73,11 +73,13 @@ Den første lektion vil give en introduktion til faget. Hovedfokus vil være på, h
 
 - @gangl2010: Causal Inference in Sociological Research (27 sider)
 
-## L02: Seminaropgave I: Det systematiske review (8. feb)
+## L02: Seminaropgave I: Det systematiske review (11. feb)
 
 Den første opgave i forbindelse med seminaropgaven er at afgrænse genstandsfeltet og finde de studier, og dermed den litteratur, man ønsker at tale til. Vi vil her bestræbe os efter at lave en så systematisk litteraturgennemgang som muligt. Forbilledet er såkaldte metaanalyser, det vil sige _analyser af analyser_. Selvom vi i den bedste af alle verdener gerne vil lave en metaanalyse, er det i de fleste tilfælde ikke muligt, hvorfor vi må afvige fra denne ideelle standard. Derfor skal vi forholde os til spørgsmål om, hvornår to studier er sammenlignelige, hvordan man bedst kan få et systematisk overblik over en litteratur m.v. 
 
 @shadishetal2002 fokuserer på metaanalyser og andre former for forskellige typer af litteraturreviews. @valentine2012 og @harrison2011 giver hver især en introduktion til metaanalyser. @burstein2003 er et eksempel på en artikel, der laver et systematisk review af en litteratur, og nærmere bestemt analyserer studier, der er interesseret i at besvare, om regeringer er responsive til vælgerens holdninger. @knopf2006 kommer med nogle generelle råd til, hvordan man kan gennemføre et litteraturreview. 
+
+*Tid og sted*: Torsdag, kl. 10-12 i U143
 
 *Påkrævet læsning*: 
 
