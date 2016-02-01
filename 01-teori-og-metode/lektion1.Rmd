@@ -1,0 +1,357 @@
+---
+title: "Teori og metode i offentlig politik"
+author: "Erik Gahner Larsen"
+date: "Kausalanalyse i offentlig politik"
+output: 
+  beamer_presentation
+---
+
+"Eighty percent of success is just showing up" - Woody Allen
+
+# Mig
+
+- Erik Gahner Larsen
+
+- Ph.d.-studerende
+
+- egl@sam.sdu.dk
+
+# Dagsorden
+
+- Introduktion til faget
+
+- Introduktion til eksamen/seminaropgave
+
+- Kausalitet og gode teorier
+
+# Jer: en introduktion
+
+- Navn
+
+- Semester
+
+- Studie (Statskundskab eller noget andet?)
+
+- Teoretiske interesser (bestemte emner?)
+
+- Metodiske interesser (kvan/kval?)
+
+# Pensum
+
+- Hvor mange har læst?
+
+- Hvad har I læst?
+
+# Grundbog
+
+- Shadish et al. (2002): Experimental and Quasi-Experimental Designs for Generalized Causal Inference
+
+- Amazon: [Experimental and Quasi-Experimental Designs for Generalized Causal Inference](http://www.amazon.co.uk/Experimental-Quasi-experimental-Designs-Generalised-Inference/dp/0395615569/)
+
+- Bogpriser: [Experimental and Quasi-Experimental Designs for Generalized Causal Inference](http://www.bogpriser.dk/experimental-and-quasi-experimental-designs-for-generalized-causal-inference_william-r-shadish-jr?isbn=9780395615560)
+
+# Kort om faget
+
+- Seminarfag ($\neq$ traditionelt forelæsningsfag)
+
+- Metodefag, tre overordnede blokke
+    - Kausalmodeller
+    - Empiriske tilgange
+    - Seminaropgave
+
+- Undervisningsform (fra fagbeskrivelsen):
+    - "Der tages udgangspunk i forelæsninger, men der forventes aktiv deltagelse, dvs. at fagets studerende møder velforberedte og er parate til at deltage i diskussioner på holdet. Der vil være individuel vejledning i forbindelse med udarbejdelsen af seminaropgaver."
+
+- Slides vil kunne findes på BlackBoard og GitHub: [http://github.com/erikgahner/kop](github.com/erikgahner/kop)
+
+
+# Målbeskrivelsen
+
+- Efter faget vil du kunne (fra fagbeskrivelsen):
+    - identificere kausale påstande i studiet af offentlig politik
+    - redegøre for nøglebegreber og kausale grundantagelser og modeller
+    - diskutere styrker og svagheder ved forskellige teoretiske og metodiske tilgange
+    - applicere teoretiske og metodiske tilgange på egne problemstillinger
+    - forholde sig kritisk til kausale påstande i empiriske studier
+
+- For mig
+    - Endnu bedre forståelse af pensum (Nestojko [2014](http://link.springer.com/article/10.3758%2Fs13421-014-0416-z))
+
+# Seminaropgave og undervisning
+
+- Eksamensform:  Seminaropgave
+
+- Krav: 20 sider (30 sider hvis to skriver sammen) 
+    - Inklusiv mellemrum, bilag og noter, men eksklusiv indholdsfortegnelse og litteraturliste. 
+
+- Hjælpemidler: Alle hjælpemidler tilladt (især Google)
+
+- Tænk allerede nu på et emne
+    - Jo før du/I kommer igang, desto bedre (især ift. feedback)
+
+- To lektioner vil blive brugt på præsentationer
+
+- Diskuter ideer med dine medstuderende
+
+# Ting du skal overveje
+
+- Vil jeg skrive alene eller sammen med en anden?
+
+- Hvilket emne vil jeg skrive om? 
+
+- Vil jeg lave min egen kausalanalyse eller et review af andres analyser?
+
+- Hvad kan være brugbart på længere sigt? (evt. i forhold til specialet)
+
+# Aktører i offentlig politik
+
+- Overvej hvilke aktørers adfærd, der er interessant
+    - Borgere
+    - Politikere
+    - Eksperter
+    - Forskere
+    - Interesseorganisationer
+    - Tænketanke
+    - Embedsmænd
+    - Journalister
+    - Politiske kommentatorer
+    - Debatørrer
+    - osv. osv. osv.
+
+
+# Seminaropgave
+
+- Ariely and Wertenbroch ([2002](http://pss.sagepub.com/content/13/3/219.short)): "What is clear from our empirical evidence is that procrastination is a real behavioral problem, that people strategically try to curb it by using costly self-imposed deadlines, and that self-imposed deadlines are not always as effective as some external deadlines in boosting task performance." (p. 224)
+
+# Seminaropgave: Deadlines
+
+- 8. februar: $\approx$ ½-1 side. Brainstorm.
+
+- 29. februar: $\approx$ 5 sider. Idé og fokus.
+
+- 31. marts: $\approx$ 10 sider. Struktur og plan.
+
+- 30. april: $\approx$ 15 sider. Tentativ opgave.
+
+- Afleveringsdato? $\approx$ juni
+
+# Undervisningsgange
+
+- Teori og metode i offentlig politik
+- Seminaropgave I: Det systematiske review
+- Kausalmodeller I: Potentielle udfald og kontrafakisk kausalitet
+- Kausalmodeller II: Validitetstypologi
+- Kausalmodeller III: Orienterede acykliske grafer
+- Seminaropgave II: Præsentation af seminaropgave, part 1
+- Seminaropgave III: Fra teoretiske koncepter til empiriske data
+- Empiriske tilgange I: Eksperimenter
+- Empiriske tilgange II: Naturlige eksperimenter
+- Empiriske tilgange III: Observationsstudier, part 1
+- Empiriske tilgange IV: Observationsstudier, part 2
+- Gæsteforelæsning I
+- Seminaropgave IV: Replicerbarhed og replikation
+- Seminaropgave V: Præsentation af seminaropgave, part 2
+- Seminaropgave VI: Etiske og praktiske overvejelser
+
+
+# Evaluering (udklip)
+
+- Har du sat dig ind i fagets fagbeskrivelse?
+
+- Har underviseren introduceret til fagets fagbeskrivelse?
+
+- Har den valgte litteratur sikret dig en god forståelse og et fagligt udbytte af faget?
+
+- Har de valgte arbejdsformer og læringsaktiviteter bidraget til at give dig en god forståelse og et fagligt udbytte af undervisningen?
+
+- Er du informeret om, hvad der forventes af dig til eksamen?
+
+- Kan du se sammenhængen mellem arbejdsformer og aktiviteter i undervisningen og den valgte eksamensform?
+
+# Hvad skal vi undersøge?
+
+- Relationen mellem fænomener 
+    - Kausalitet (X $\rightarrow$ Y)
+
+- Årsag og effekt, stimuli og udfald, eksogene og endogene variable
+
+- Eksempler fra læseplanen: 
+    - hvilke effekter har velfærdspolitikker på vælgernes holdninger?; hvilke effekter har vælgernes holdninger på velfærdspolitikker?; hvilke effekter har det at fjerne topskatten?; har regeringsgrundlaget betydning for, hvilke offentlige politikker der gennemføres?; hvilke socialpolitiske tiltag kan få marginaliserede grupper ud af fattigdom?; hvilken betydning har præsentationen af arbejdsløse i medierne for vælgernes opfattelse af arbejdsløse?
+
+- Vi kan finde korrelationer over det hele: [tylervigen.com](http://www.tylervigen.com/spurious-correlations)
+
+- Hvad vi _ikke_ gider:
+    - Seminaropgaver der kommer frem til, at verden er kompliceret
+
+
+# Antagelser
+
+- Simplifikation af virkeligheden
+    - Antagelser er ikke (nødvendigvis) korrekte
+    - Friedman ([1953](http://www.pauldeng.com/pdf/Friedman,%20methodology%20of%20positive%20economics.pdf)): "[...] the relevant question to ask about the "assumptions" of a theory is not whether they are descriptively "realistic," for they never are, but whether they are sufficiently good approximations for the purpose in hand."
+
+- Healy (2015): "Nuance is not a virtue of good sociological theory."
+    - Hvorfor?
+
+# Teoretisk kompleksitet
+
+Healy ([2015](http://kieranhealy.org/files/papers/fuck-nuance.pdf)): "When faced with a problem that is hard to solve, or a line of thinking that requires us to commit to some defeasible claim, or a logical dilemma we must bite the bullet on, the nuance-promoting theorist says 'But isn't it more _complicated_ than that?'; or 'Isn't it really _both/and_?'; or 'Aren't these phenomena _mutually constitutive_?'; or 'How does your theory deal with Structure, or Culture, or Temporality, or Power, or [some other abstract noun]?'. This sort of nuance is fundamentally anti-theoretical. It blocks the process of abstraction that theory depends on."
+
+# Teoretisk model
+
+- Model: "betegnelsen på en analogisk tankekonstruktion der vel ligner studieobjektet ved at en række af dettes formodet essentielle træk indgår i den, men som ikke er en afbildning af dette idet andre træk for overskuelighedens skyld er udeladt; der postuleres altså isomorfi (ensdannethed, dvs. parvis korrespondens mellem elementer i model og studieobjekt) i nogle men ikke alle henseender. Da forskeren selv har tillagt modellen dens egenskaber kan den analyseres rent deduktivt, i visse tilfælde med anvendelse af matematisk formelsprog." (Rasmussen [1968](https://books.google.dk/books/about/Komparativ_Politik.html?id=AVI0AAAAIAAJ), 23)
+
+# Teori: Logisk konsistent
+
+- Følger de teoretiske forventninger vores antagelser?
+    - Dette er ikke altid tilfældet
+
+- Følger _flere_ modsigende teoretiske forventninger af vores antagelser?
+
+- Jo mere formel en model er, desto bedre (alt andet lige)
+
+# Teori: Falsifikation
+
+- Falsifikation er afgørende for videnskabelige modeller
+
+- Popper: Formålet med videnskab er at falsificere teorier
+    - Én empirisk observation kan falsificere en teori
+    - Lakatos kalder dette for 'naiv metodologisk falsifikationisme'
+
+- Er der ingen falsifikationskriterier, kan vi ikke teste modellen
+    - Al empiri kan forklares (marxisme, psykoanalyse)
+
+# Hvor ofte er vi ude på at falsificere vores teori? 
+
+- I praksis: 
+    - Vi søger ikke at falsificere vores teori
+    - Vi afviser ikke en teori, fordi vi finder et eksempel, der ikke stemmer overens med teorien
+    - Mulighed for 'forkert falsifikation'
+        - Målefejl
+        - Designfejl
+
+- "You have to want to falsify the model. If you love somebody, set them free." - Andrew Gelman
+
+# Sofistikeret falsifikationisme
+
+"For the naive falsificationist a theory is _falsified_ by a ('fortified') 
+'observational' statement which conflicts with it (or which he decides
+to interpret as conflicting with it). For the sophisticated falsificationist
+a scientific theory T is _falsified_ if and only if another theory T' has been
+proposed with the following characteristics: (1) T' has excess empirical
+content over T: that is, it predicts _novel_ facts, that is, facts improbable
+in the light of, or even forbidden, by T; (2) T' explains the previous
+success of T, that is, all the unrefuted content of T is included (within
+the limits of observational error) in the content of T'; and (3) some
+of the excess content of T' is corroborated." (Lakatos [1978](http://strangebeautiful.com/other-texts/lakatos-meth-sci-research-phil-papers-1.pdf), 32)
+
+# Implikationer
+
+- En ny teori skal erstatte en gammel teori
+    - "In economics it takes a theory to kill a theory, facts can only dent a theorist's hide." - Paul A. Samuelson
+
+- En fejlfyldt teori skal erstattes af en mindre fejlfyldt teori
+
+- Videnskab er - i bund og grund - reduktion af _bullshit_
+
+- Videnskab finder sted i paradigmer
+    - Fælles antagelser
+    - Struktureret viden
+
+# Men er teorier ikke bare sund fornuft?
+
+- Vi er gode til at efterrationalisere. (Everything Is Obvious Once You Know the Answer)
+
+- Eksempel #1: Hvilke soldater klarede sig bedst i 2. verdenskrig? (Lazarsfeld [1949](http://www.jstor.org/stable/2745717) via Watts [2012](http://www.amazon.com/Everything-Is-Obvious-Common-Sense/dp/0307951790))
+    - Soldater fra landet: "Rural men in the 1940s were accustomed to harsher living standards and more physical labor than city men, so naturally they had an easier time adjusting."
+    - Soldater fra byen: "City men are more used to working in crowded conditions and in corporations, with chains of command, strict standards of clothing and social etiquette, and so on. That's obvious!"
+
+# Sund fornuft
+
+- Eksempel #2:
+    - "Alle indsatser er selvfølgelig sat i verden med intentionen om at gøre en positiv forskel for målgruppen, men vi ved fra internationale erfaringer, at på trods af gode intentioner, så findes der faktisk indsatser, som har den modsatte effekt af, hvad man ønskede. Det klassiske eksempel er 'scared straight', hvor man satte ungdomskriminelle ind i voksenfængsler ud fra den hypotese, at det ville virke så afskrækkende på de unge at møde de voksne kriminelle, at de derefter ville holde sig langt væk fra kriminalitet. Grundige evalueringer - bl.a. ved hjælp af lodtrækningsforsøg - viste dog, at effekten var den modsatte: De ungdomskriminelle blev altså mere kriminelle af indsatsen, sandsynligvis fordi de opfattede de voksen-kriminelle som positive rollemodeller" (Deding og Høg [2015](https://www.djoef-forlag.dk/sites/oekpol/resumeer_3-15.htm), 64)
+
+# Sund fornuft
+
+- "Verbal models can appear superior to formal models only by employing strategic ambiguity (_sensu_ Eisenberg 1984), giving the illusion of understanding at the cost of actual understanding. That is, by being vague, verbal models simultaneously afford many interpretations from among which any reader can implicitly, perhaps even unconsciously, choose her favorite." (Smaldino [2016](http://smaldino.com/wp/wp-content/uploads/2016/01/Smaldino_ModelsAreStupid_v4.pdf): 6)
+
+# Samfundsvidenskabelig forskning er kompliceret
+
+Watts ([2012](http://www.amazon.com/Everything-Is-Obvious-Common-Sense/dp/0307951790)): "Well, I'm no rocket scientist, and I have immense respect for the people who can land a machine the size of a small car on another planet. But the sad fact is that we're actually much better at planning the flight path of an interplanetary rocket than we are at managing the economy, merging two corporations, or even predicting how many copies of a book will sell. So why is it that rocket science _seems_ hard, whereas problems having to do with people - which arguably are much harder - _seem_ like they ought to be just a matter of common sense?"
+
+# Metode: Test af teori
+
+- "Good political science is defined in terms of method, not object of study." (Nørgaard [2008](http://groups.chass.utoronto.ca/pol242/Standards%20for%20Good%20Research.pdf), 2)
+
+- Kausalanalyse
+    - En empirisk analyse af en teori med kausale påstande
+
+- Målsætningen er kausal inferens
+    - Kræver ikke udelukkende teori
+    - Stærke forskningsdesigns
+    
+- Fokus i nærværende fag
+    - Klart definerede kausale påstande
+    - Fair og god test af hypoteser
+
+# Nogle krav til et stærkt forskningsdesign
+
+- Klart formuleret forskningsspørgsmål/hypotese
+- Klart mål for studiet
+- Klart defineret stimuli
+    - Uden et stimuli, intet empirisk studie
+- Klart dokumenteret
+    - Gennemsigtighed (mere i lektion 13)
+- Gennemførligt
+    - Ressourcer, etik etc. (mere i lektion 15)
+
+# Empiriske tilgange
+
+- Eksperimenter (lektion 8)
+    - Lab
+    - Survey
+    - Field
+    - osv.
+
+- Naturlige eksperimenter (lektion 9)
+    - RDD
+    - DID
+    - IV
+    - osv.
+
+- Observationsstudier (lektion 10 og 11)
+    - Syntetisk kontrol
+    - Matching
+    - osv.
+
+# Replikation
+
+- En valid test af en teori skal være transparent
+    - Mulighed for at andre kan teste teorien
+
+- Hvis ikke en analyse kan replikeres, er den ikke videnskabelig
+
+- Distinktion mellem replikation og reproduktion (mere i lektion 13)
+
+# Dagens øvelse
+
+- Brainstorm, alene eller to og to
+
+- Én kausal påstand
+  - X (_eksogen_) og Y (_endogen_) variabel
+
+- Hvordan kan det måles?
+
+# Næste gang
+
+- Udvikle teorier
+    - *Litteraturreview*
+    - Definere kausaleffekt
+    - Opbygge kausalmodeller
+    - Eksplicitere antagelser
+    - Validitet
+
+- Senere: Teste og evaluere teorier
+
+- Bemærk, næste gang er flyttet:
+    - U143, torsdag den 11. februar, kl. 10-12.
