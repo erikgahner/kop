@@ -49,7 +49,9 @@ Faget består af tre kategorier af undervisningsgange,Den ene kategori beskæftige
 
 ## L01: Teori og metode i offentlig politik (1. feb)
 
-Den første lektion vil give en introduktion til faget. Hovedfokus vil være på, hvad der kendetegner en god teori, herunder vigtigheden af [parsimoni](https://da.wikipedia.org/wiki/Ockhams_ragekniv) og falsifikation. Uden teorier har vi ingenting - kun kaos. Teorier hjælper os med at reducere virkelighedens kompleksitet og fokusere på det essentielle. I studiet af offentlig politik er vi derfor ikke interesseret i at beskrive kompleksiteten i politiske fænomener, men tværtimod at fokusere på så lidt som muligt, der kan forklare mest muligt.
+Den første lektion vil give en introduktion til faget. Der vil blive givet en udførlig beskrivelse af, hvilke krav og forudsætninger, der er til deltagelse i faget, læsemængden og eksamensbesvarelsen (altså seminaropgaven). Foruden dette vil der blive givet en introduktion til, hvordan en seminaropgavebesvarelse kan se ud.
+
+Det faglige hovedfokus vil være på, hvad der kendetegner en god teori, herunder vigtigheden af [parsimoni](https://da.wikipedia.org/wiki/Ockhams_ragekniv) og falsifikation. Uden teorier har vi ingenting - kun kaos. Teorier hjælper os med at reducere virkelighedens kompleksitet og fokusere på det essentielle. I studiet af offentlig politik er vi derfor ikke interesseret i at beskrive kompleksiteten i politiske fænomener, men tværtimod at fokusere på så lidt som muligt, der kan forklare mest muligt.
 
 @brady2008 giver en generel oversigt over kausalitet i samfundsvidenskaberne og kan læses kursorisk. @healy2015, @smaldino2016 og @watts2014 diskuterer kriterier for gode teorier samt hvilke udfordringer vi skal adressere, når vi går teoretisk til værks.
 
@@ -111,6 +113,8 @@ Fokus vil i denne lektion være på Neyman-Rubins kausalmodel og mere specifikt på
 
 @imbensrubin2015 introducerer og redegør for historien bag det potentielle udfaldsframework. De sidste dele af kapitel 2 kan læses kursorisk. @gautieretal2016 viser, at nogle af de antagelser vi bygger på i empiriske studier, ikke altid holder. I nærværende tilfælde _stable unit treatment value assumption_ (SUTVA). Det empiriske studie er et eksperiment, men diskussionen af udforringerne forbunde med at isolere en kausal effekt, er aktuel for alle empiriske studier. @greinerrubin2011 forholder sig til spørgsmålet om, hvordan vi kan estimere kausaleffekter af hvad vi mener, ikke kan manipuleres.
 
+*Tid og sted*: Mandag, kl. 10-12 i U31A
+
 *Påkrævet læsning*: 
 
 - @imbensrubin2015: Causality: The Basic Framework (Kapitel 1) (19 sider)
@@ -135,6 +139,8 @@ Kausalitet studeres ikke udelukkende med refence til potentielle udfald, men ogs
 
 Der er 102 siders læsning til nærværende lektion. Kapitel 1 i @shadishetal2002 kan dog læses kursorisk.
 
+*Tid og sted*: Mandag, kl. 10-12 i U31A
+
 *Påkrævet læsning*: 
 
 - @shadishetal2002: Experimental and Quasi-Experimental Designs for Generalized Causal Inference (Kapitel 1, 2 og 3) (102 sider)
@@ -146,6 +152,8 @@ Der er 102 siders læsning til nærværende lektion. Kapitel 1 i @shadishetal2002 k
 ## L05: Kausalmodeller III: Orienterede acykliske grafer (29. feb)
 
 Den tredje og sidste kausalmodel vi vil fokusere på er grafteoretisk kausalitet, og mere specifikt orienterede acykliske grafer (_directed acyclic graphs_). Begrebsapparatet er lettere teknisk, men vi vil fokusere på det mest introducerende og især bruge det i relation til de forudgående kausalmodeller. Med andre ord vil vi her ligeledes samle op på de andre kausalmodeller og diskutere de respektive styrker og svagheder. @morganwinship2007 og @knightwinship2013 introducerer kausal idenfitikation ved hjælp af orienterede acykliske grafer. @shadishsullivan2012 indeholder en formidabel opsamling af og diskussion af de forskellige kausalmodeller. 
+
+*Tid og sted*: Mandag, kl. 10-12 i U31A
 
 *Påkrævet læsning*: 
 
@@ -164,6 +172,8 @@ of Causal Exposure (Kapitel 3) (25 sider)
 
 _Denne undervisningsgang vil blive opdateret med en liste over rækkefølgen for præsentationer._
 
+*Tid og sted*: Mandag, kl. 10-12 i U31A
+
 *Påkrævet læsning*:
 
 - Delt materiale (_ukendt antal sider_)
@@ -181,6 +191,8 @@ _Denne undervisningsgang vil blive opdateret med en liste over rækkefølgen for p
 Der er mange metodiske valg, der skal træffes, når vi ønsker at teste en teori empirisk. Hvilke indikatorer skal vi bruge - og er disse valide? I denne undervisningsgang vil vi fokusere på målevaliditet og reliabilitet, indikatorer, skalaer m.v. Vi vil herunder også diskutere et aspekt, der er ekstra vigtigt i studiet af offentlig politik: Hvem laver de data, vi anvender? Data taler ikke for sig selv, og de bliver aldrig indsamlet uden grund. Dette betyder også, at vi skal forholde os kritisk til data, hvem der har lavet dem, hvilke incitamenter de har haft m.v.
 
 De fleste af jer vil have læst @adcockcollier2001 på bachelordelen, så denne kan genlæses uden de store vanskeligheder. @herrerakapur2007 beskæftiger sig med datakvalitet og de udfordringer, der potentielt kan føre til data af en lav kvalitet. @wallace2016 er et kreativt, empirisk studie, der har datavaliditet som den afhængige variabel.
+
+*Tid og sted*: Mandag, kl. 10-12 i U31A
 
 *Påkrævet læsning*: 
 
@@ -203,6 +215,8 @@ De fleste af jer vil have læst @adcockcollier2001 på bachelordelen, så denne kan
 Eksperimenter er en metodisk guldstandard. Jo mere ens forskningsdesign ligner et eksperiment, desto stærkere er det. Denne undervisningsgang vil fokusere på forskellige typer af eksperimenter (laboratorieeksperimenter, spørgeskemaeksperimenter, felteksperimenter), hvordan de bruges, styrker og svagheder m.v. Foruden dette vil vi også diskutere eksperimenter i forhold til socialpolitik i en dansk kontekst.
 
 @shadishetal2002 og @blomhansenserritzlew2014 giver en indføring i det eksperimentelle design. @blomhansenetal2015 er en engelsk version af førnævnte danske artikel, og det der er relevant her er den ene side, der diskuterer relationen mellem intern og ekstern validitet. @hansenpontoppidan2014 er en rapport fra SFI, der redegør for erfaringerne med eksperimenter på det sociale område. Denne tekst er også pensum til sidste undervisningsgang, så vi vil ikke gå for meget i dybden med de praktiske og især etiske aspekter. @druckmanlupia2012 er en salgstale for eksperimentelle metode i relation til samfundsvidenskabelig forskning. @jakobsen2013 er et godt eksempel på et velgennemført felteksperiment. @stoker2010 beskriver udfordringerne ved at omdanne viden opnået gennem eksperimenter til politik.
+
+*Tid og sted*: Mandag, kl. 10-12 i U31A
 
 *Påkrævet læsning*: 
 
@@ -236,11 +250,13 @@ Eksperimenter er en metodisk guldstandard. Jo mere ens forskningsdesign ligner e
 
 - @mcdermott2013: The Ten Commandments of Experiments (6 sider)
 
-## L09: Empiriske tilgange II: Naturlige eksperimenter (28. mar)
+## L09: Empiriske tilgange II: Naturlige eksperimenter (30. mar)
 
 I mange tilfælde har vi (desværre) ikke mulighed for at gennemføre eksperimenter. Dette kan være på grund af ressourcer såvel som etiske begrænsninger. Heldigvis sker der naturlige ting i verden, der tilfældigt skaber videnskabeligt brugbar og interessant variation, vi kan udnytte i naturlige eksperimenter og kvasieksperimenter. Ideen bag er simpel: Hvis noget foregår tilfældigt i verden, er disse tilfældigheder at sammenligne med randomiseringen, vi kender fra den eksperimentelle metode. 
 
 I denne undervisningslektion vil fokus være på forskellige typer af naturlige eksperimenter. Vi vil især fokusere på styrker og svagheder ved forskellige naturlige eksperimenter, og ikke mindst diskutere styrke og svagheder i forhold til "rigtige" eksperimenter. Logikken bag forskellige analyseteknikker vil desuden blive introduceret, herunder blandt andet _difference-in-difference_ estimatorer, _regression discontinuity_ designs og instrumentelle variable.
+
+*Tid og sted*: Onsdag, kl. 10-12 i U25A
 
 *Påkrævet læsning*:
 
@@ -266,6 +282,8 @@ I denne undervisningslektion vil fokus være på forskellige typer af naturlige ek
 
 Når vi ikke har et stærkt design med et (naturligt) eksperiment, arbejder vi med ikke-tilfældig selektion ind i et stimuli. Dette introducerer en lang række udfordringer for observationsstudier, vi vil adressere over to lektioner. I nærværende undervisningsgang vil fokus være på, hvad vi gør og kan gøre, når vi ikke har en kontrolgruppe. @shadishetal2002 giver i kapitel 4 en fin introduktion til observationsstudier og i kapitel 6 hvordan man kan studere effekter i tidsseriedata. 
 
+*Tid og sted*: Mandag, kl. 10-12 i U31A
+
 *Påkrævet læsning*:
 
 - @shadishetal2002: Experimental and Quasi-Experimental Designs for Generalized Causal Inference (Kapitel 4 og 6) (68 sider)
@@ -275,6 +293,8 @@ Når vi ikke har et stærkt design med et (naturligt) eksperiment, arbejder vi med
 Anden undervisningsgang omkring observationsstudier vil fokusere på, hvordan vi - især med hjælp fra statistiske værktøjer - kan skabe sammenlignelige observationer. Matching fokuserer på at konstruere et datasæt, hvor vi har sammenlignelige observationer, der udelukkende varierer på, om de har modtaget et treatment eller ej. Syntetisk kontrol beskæftiger sig med tilfælde, hvor vi har få cases (eksempelvis lande eller stater), hvor vi ønsker at konstruere en syntetisk kontrol for den pågældende case. Fokus vil være på at introducere nøglebegreber samt diskutere kausalitet i forhold til observationsdata.
 
 @justesenklemmensen2014 giver en introduktion til matching. @nielsen2014 beskriver hvordan matching kan bruges til at udvælge cases. @abadieetal2015 introducerer syntetisk kontrol-metoden. 
+
+*Tid og sted*: Mandag, kl. 10-12 i U31A
 
 *Påkrævet*:
 
@@ -294,6 +314,8 @@ Anden undervisningsgang omkring observationsstudier vil fokusere på, hvordan vi 
 ## L12: Gæsteforelæsning I: TBA (18. apr)
 _Gæsteforelæsning_.
 
+*Tid og sted*: Mandag, kl. 10-12 i U31A
+
 *Påkrævet læsning*:
 
 - *Kommer*
@@ -305,6 +327,8 @@ _Gæsteforelæsning_.
 ## L13: Seminaropgave IV: Replicerbarhed og replikation (25. apr)
 
 Replikationer er afgørende for videnskaben. Ét studie er aldrig konkluderende og skal aldrig ses i isolation fra andre studier. Forskning er en kollektiv og åben proces, og replikationerne spiller en afgørende rolle i denne proces. Et vigtigt step i denne proces er at sikre, at ens forskning kan reproduceres af andre. I denne undervisningsgang vil vi fokusere på reproducerbarhed og replikationer. Mere konkret vil vi komme ind på vigtigheden af at dokumentere sin forskning, gøre den tilgængelig for andre og facilitere, at andre kan reproducere og replikere forskningen på en tilfredsstillende måde.
+
+*Tid og sted*: Mandag, kl. 10-12 i U31A
 
 *Påkrævet læsning*:
 
@@ -330,6 +354,8 @@ Replikationer er afgørende for videnskaben. Ét studie er aldrig konkluderende og
 
 _Vil blive tilføjet senere._
 
+*Tid og sted*: Mandag, kl. 10-12 i U31A
+
 *Påkrævet læsning*:
 
 - Seminaropgaver (_ukendt antal sider_)
@@ -341,6 +367,8 @@ _Vil blive tilføjet senere._
 ## L15: Seminaropgave VI: Etiske og praktiske overvejelser (9. maj)
 
 Sidste lektion vil blive brugt på at samle op på det, vi har gennemgået i løbet af semestret samt diskutere praktiske og etiske aspekter relateret til studiet af kausalitet i offentlig politik.
+
+*Tid og sted*: Mandag, kl. 10-12 i U31A
 
 *Påkrævet læsning*:
 
