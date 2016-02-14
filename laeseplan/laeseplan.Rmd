@@ -113,7 +113,14 @@ Det fundamentale problem i kausalitetsstudier er manglende data. Alt vi kan måle
 
 - [The Incidental Economist: Counterfactuals](http://theincidentaleconomist.com/wordpress/counterfactuals/)
 
-Fokus vil i denne lektion være på Neyman-Rubins kausalmodel og mere specifikt på, hvordan vi kan definere en kausal effekt. Dette vil danne udgangspunktet for en diskussion af forskellige antagelser og ikke mindst teoretiske såvel som metodiske udfordringer. Hvordan kan vi eksempelvis studere kausale effekter af fænomener, der er uforanderlige?
+Fokus vil i denne lektion være på Neyman-Rubins kausalmodel og mere specifikt på, hvordan vi kan definere en kausal effekt. Dette vil danne udgangspunktet for en diskussion af forskellige antagelser og ikke mindst teoretiske såvel som metodiske udfordringer. Hvordan kan vi eksempelvis studere kausale effekter af fænomener, der er uforanderlige? 
+
+Der vil blive givet en kvantitativ definition af en kausaleffekt, men det er vigtigt at holde for øje, at logikken bag lader sig applicere på alle sociale fænomener, hvor vi ønsker at studere kausalitet og kontrafaktiske scenarier. 
+
+Forelæsningens aktuelle emne vil være en diskussion af, hvad man man tilskrive som en kausal effekt af en politik, i dette tilfælde en lovpakke i forbindelse med miljøgevinsterne ved en bestemt landbrugspakke, og hvad man _ikke_ kan tilskrive som en kausal effekt af en politik. Journalister fra Berlingske har belyst denne problematik:
+
+- [Topforskere advarer om forkerte tal bag lovpakke](http://www.politiko.dk/nyheder/topforskere-advarer-om-forkerte-tal-bag-lovpakke)
+- [Her er regeringens regnestykke](http://www.politiko.dk/infografik/her-er-regeringens-regnestykke)
 
 @imbensrubin2015 introducerer og redegør for historien bag det potentielle udfaldsframework. De sidste dele af kapitel 2 kan læses kursorisk. @gautieretal2016 viser, at nogle af de antagelser vi bygger på i empiriske studier, ikke altid holder. I nærværende tilfælde _stable unit treatment value assumption_ (SUTVA). Det empiriske studie er et eksperiment, men diskussionen af udforringerne forbunde med at isolere en kausal effekt, er aktuel for alle empiriske studier. @greinerrubin2011 forholder sig til spørgsmålet om, hvordan vi kan estimere kausaleffekter af hvad vi mener, ikke kan manipuleres.
 
@@ -367,6 +374,10 @@ _Vil blive tilføjet senere._
 *Anbefalet læsning*:
 
 - @simons2012: Musings on Writing (8 sider)
+
+## Add on: AGORA 16 (4. maj)
+
+Temaet for AGORA 16 er 'Freedom vs. Security'. Mere information følger.
 
 ## L15: Seminaropgave VI: Etiske og praktiske overvejelser (9. maj)
 
