@@ -107,7 +107,7 @@ Den første opgave i forbindelse med seminaropgaven er at afgrænse genstandsfelte
 
 - @schoenfeldioannidis2012: Is everything we eat associated with cancer? A systematic cookbook review (8 sider)
 
-## L03: Kausalmodeller I: Potentielle udfald og kontrafakisk kausalitet (15. feb)
+## L03: Kausalmodeller I: Potentielle udfald og kontrafaktisk kausalitet (15. feb)
 
 Det fundamentale problem i kausalitetsstudier er manglende data. Alt vi kan måle på er blot ét realiseret udfald blandt mange potentielle, der ikke blev realiseret. Når vi ønsker at studere effekten af en offentlig politik, er vi grundlæggende set interesseret i at udtale os om, hvordan verden ville se ud, var den pågældende politik fraværende. For en kort beskrivelse af kontrafaktiske scenarier, kan følgende indlæg anbefales:
 
