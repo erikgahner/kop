@@ -122,7 +122,7 @@ Forelæsningens aktuelle emne vil være en diskussion af, hvad man man tilskrive s
 - [Topforskere advarer om forkerte tal bag lovpakke](http://www.politiko.dk/nyheder/topforskere-advarer-om-forkerte-tal-bag-lovpakke)
 - [Her er regeringens regnestykke](http://www.politiko.dk/infografik/her-er-regeringens-regnestykke)
 
-@imbensrubin2015 introducerer og redegør for historien bag det potentielle udfaldsframework. De sidste dele af kapitel 2 kan læses kursorisk. @gautieretal2016 viser, at nogle af de antagelser vi bygger på i empiriske studier, ikke altid holder. I nærværende tilfælde _stable unit treatment value assumption_ (SUTVA). Det empiriske studie er et eksperiment, men diskussionen af udforringerne forbunde med at isolere en kausal effekt, er aktuel for alle empiriske studier. @greinerrubin2011 forholder sig til spørgsmålet om, hvordan vi kan estimere kausaleffekter af hvad vi mener, ikke kan manipuleres.
+@imbensrubin2015 introducerer og redegør for historien bag det potentielle udfaldsframework. De sidste dele af kapitel 2 kan læses kursorisk. @gautieretal2016 viser, at nogle af de antagelser vi bygger på i empiriske studier, ikke altid holder. I nærværende tilfælde _stable unit treatment value assumption_ (SUTVA). Det empiriske studie er et eksperiment, men diskussionen af udforringerne forbunde med at isolere en kausal effekt, er aktuel for alle empiriske studier. Det kan læses kursorisk og fokuser især på den del der handler om SUTVA. @greinerrubin2011 forholder sig til spørgsmålet om, hvordan vi kan estimere kausaleffekter af hvad vi mener, ikke kan manipuleres.
 
 *Tid og sted*: Mandag, kl. 10-12 i U31A
 
@@ -146,9 +146,9 @@ Forelæsningens aktuelle emne vil være en diskussion af, hvad man man tilskrive s
 
 ## L04: Kausalmodeller II: Validitetstypologi (22. feb)
 
-Kausalitet studeres ikke udelukkende med refence til potentielle udfald, men også validitet. Her vil vi diskutere forskellige typer af validitet (intern, ekstern, økologisk, statistisk m.v.), og hvordan de hver især er vigtige for kausale analyser såvel som for hinanden. 
+Kausalitet studeres ikke udelukkende med refence til potentielle udfald, men også validitet. Her vil vi først introduceres for nogle ligheder og forskelle mellem potentielle udfald og validitet, hvorfefter vi skal diskutere fire typer af validitet (statistisk intern, konstruktions- og ekstern validitet), og hvordan de hver især er vigtige for kausale analyser såvel som for hinanden. 
 
-Der er 102 siders læsning til nærværende lektion. Kapitel 1 i @shadishetal2002 kan dog læses kursorisk.
+Det overordnede fokus vil være på forskellige validitetstrusler, altså potentielle alternative forklaringer, der vil kunne føre til fejlagtige konklusioner. Der er 102 siders læsning til nærværende lektion. Kapitel 1 i @shadishetal2002 kan dog læses kursorisk.
 
 *Tid og sted*: Mandag, kl. 10-12 i U31A
 
