@@ -179,6 +179,8 @@ of Causal Exposure (Kapitel 3) (25 sider)
 
 - @elwert2013: Graphical Causal Models (29 sider)
 
+- @elwertwinship2014: Endogenous Selection Bias: The Problem of Conditioning on a Collider Variable (23 sider)
+
 ## L06: Seminaropgave II: Præsentation af seminaropgave, part 1 (7. mar)
 
 _Denne undervisningsgang vil blive opdateret med en liste over rækkefølgen for præsentationer._
@@ -322,18 +324,19 @@ Anden undervisningsgang omkring observationsstudier vil fokusere på, hvordan vi 
 
 - @sekhon2009: Opiates for the Matches (22 sider)
 
-## L12: Gæsteforelæsning I: TBA (18. apr)
-_Gæsteforelæsning_.
+## L12: Gæsteforelæsning: Evalueringer af offentlige politikker (18. apr)
+
+Gæsteforelæsning gives af Jacob Askham-Christensen.
+
+@bdo2014a kan læses kursorisk.
 
 *Tid og sted*: Mandag, kl. 10-12 i U31A
 
 *Påkrævet læsning*:
 
-- *Kommer*
+- @bdo2014a: Fra udsat til ansat - Virkeligheden tæller (68 sider)
 
-*Anbefalet læsning*:
-
-- *Kommer*
+- @bdo2014b: Analyse af jobcentrenes ressourceforbrug - ledelsesresume (13 sider)
 
 ## L13: Seminaropgave IV: Replicerbarhed og replikation (25. apr)
 
