@@ -301,13 +301,15 @@ Når vi ikke har et stærkt design med et (naturligt) eksperiment, arbejder vi med
 
 - @shadishetal2002: Experimental and Quasi-Experimental Designs for Generalized Causal Inference (Kapitel 4 og 6) (68 sider)
 
-## L11: Empiriske tilgange IV: Observationsstudier, part 2 (11. apr)
+## L11: Empiriske tilgange IV: Observationsstudier, part 2 (14. apr)
 
 Anden undervisningsgang omkring observationsstudier vil fokusere på, hvordan vi - især med hjælp fra statistiske værktøjer - kan skabe sammenlignelige observationer. Matching fokuserer på at konstruere et datasæt, hvor vi har sammenlignelige observationer, der udelukkende varierer på, om de har modtaget et treatment eller ej. Syntetisk kontrol beskæftiger sig med tilfælde, hvor vi har få cases (eksempelvis lande eller stater), hvor vi ønsker at konstruere en syntetisk kontrol for den pågældende case. Fokus vil være på at introducere nøglebegreber samt diskutere kausalitet i forhold til observationsdata.
 
 @justesenklemmensen2014 giver en introduktion til matching. @nielsen2014 beskriver hvordan matching kan bruges til at udvælge cases. @abadieetal2015 introducerer syntetisk kontrol-metoden. 
 
-*Tid og sted*: Mandag, kl. 10-12 i U31A
+Bemærk at denne lektion finder sted torsdag i U143!
+
+*Tid og sted*: Torsdag, kl. 10-12 i U143 
 
 *Påkrævet*:
 
