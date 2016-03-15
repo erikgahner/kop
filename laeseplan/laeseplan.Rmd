@@ -380,9 +380,9 @@ _Vil blive tilføjet senere._
 
 - @simons2012: Musings on Writing (8 sider)
 
-## Add on: AGORA 16 (4. maj)
+## Add on I: AGORA 16 (4. maj)
 
-Temaet for AGORA 16 er 'Freedom vs. Security'. Mere information følger.
+Temaet for AGORA 16 er 'Freedom vs. Security'. Mere information kan findes på facebook: [AGORA 16](https://www.facebook.com/events/1539248969708294/)
 
 ## L15: Seminaropgave VI: Etiske og praktiske overvejelser (9. maj)
 
@@ -395,6 +395,10 @@ Sidste lektion vil blive brugt på at samle op på det, vi har gennemgået i løbet 
 - @shadishetal2002: Experimental and Quasi-Experimental Designs for Generalized Causal Inference (Kapitel 9 og 10) (62 sider)
 
 - @hansenpontoppidan2014: Erfaringer med RCT-studier på det sociale område (19 sider)
+
+## Add on II: Introduktion til R (TBA)
+
+Til flere og flere jobs i den offentlige sektor giver det en fordel, hvis man kan bruge R. I dette add on gives en introduktion til R. Mere information følger så snart eksamensdatoen er på plads (altså afleveringsdatoen for seminaropgaven).
 
 \newpage
 
