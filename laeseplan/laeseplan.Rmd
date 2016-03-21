@@ -263,6 +263,8 @@ Eksperimenter er en metodisk guldstandard. Jo mere ens forskningsdesign ligner e
 
 - @mcdermott2013: The Ten Commandments of Experiments (6 sider)
 
+- @heckmansmith1995: Assessing the Case for Social Experiments (26 sider)
+
 ## L09: Empiriske tilgange II: Naturlige eksperimenter (30. mar)
 
 I mange tilfælde har vi (desværre) ikke mulighed for at gennemføre eksperimenter. Dette kan være på grund af ressourcer såvel som etiske begrænsninger. Heldigvis sker der naturlige ting i verden, der tilfældigt skaber videnskabeligt brugbar og interessant variation, vi kan udnytte i naturlige eksperimenter og kvasieksperimenter. Ideen bag er simpel: Hvis noget foregår tilfældigt i verden, er disse tilfældigheder at sammenligne med randomiseringen, vi kender fra den eksperimentelle metode. 
@@ -379,6 +381,8 @@ _Vil blive tilføjet senere._
 *Anbefalet læsning*:
 
 - @simons2012: Musings on Writing (8 sider)
+
+- @little2016: Three Templates for Introductions to Political Science Articles (8 sider)
 
 ## Add on I: AGORA 16 (4. maj)
 
