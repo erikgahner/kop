@@ -39,9 +39,11 @@ Der er en række deadlines, den studerende anbefales at følge. Mere specifikt anb
 
 - 29. februar: Omkring 5 sider. En beskrivelse af hvad man ønsker at belyse i seminaropgaven, gerne med ideer til, hvordan og hvorledes, det kan gøres. Vær gerne så konkret som mulig med referencer til den litteratur, man ønsker at tale til.
 
-- 31. marts: 10 sider. En litteraturgennemgang og beskrivelse af seminaropgavens bidrag, herunder teoretiske og metodiske overvejelser.
+- 30. april: 10 sider. En litteraturgennemgang og beskrivelse af seminaropgavens bidrag, herunder teoretiske og metodiske overvejelser.
 
-- 30. april: 15 sider. En tentativ udgave af seminaropgaven.
+- 15. maj: 15 sider. En tentativ udgave af seminaropgaven.
+
+- 2. juni, klokken 12:00: Aflevering. Hvis man skriver alene, skal der afleveres 20 sider. Hvis man skriver to sammen, skal der afleveres 30 sider.
 
 # Undervisningsgange
 
