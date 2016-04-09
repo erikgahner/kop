@@ -334,11 +334,17 @@ Bemærk at denne lektion finder sted torsdag i U143!
 
 Gæsteforelæsning gives af Jacob Askham-Christensen.
 
-@bdo2014a kan læses kursorisk.
+@bdo2014a kan læses kursorisk. Læs side 26 til 28 i @lginsight2014. Læs side 7 i @finansministeriet2014.
 
 *Tid og sted*: Mandag, kl. 10-12 i U31A
 
 *Påkrævet læsning*:
+
+- @nordjyske2015: Aftale på Borgen godt nyt for Topvirk (1 side)
+
+- @lginsight2014: Den bedste integration: Effektive beskæftigelsesfaglige integrationsindsatser for etniske minoriteter fra ikke-vestlige lande (3 sider)
+
+- @finansministeriet2014: Aftale om kommunernes økonomi for 2015 (1 side)
 
 - @bdo2014a: Fra udsat til ansat - Virkeligheden tæller (68 sider)
 
