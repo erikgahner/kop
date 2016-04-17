@@ -3,9 +3,9 @@
 %% fonts
 \usepackage{MnSymbol}
 \usepackage{MinionPro}
-\usepackage[utf8]{inputenc}
 \usepackage{etoolbox}
 \usepackage{adjustbox}
+\usepackage[utf8]{inputenc}
 
 %% tables
 \usepackage{longtable}
@@ -62,6 +62,9 @@
 % \allsectionsfont{\centering}
 \sectionfont{\large}
 \subsectionfont{\normalsize}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
 %% Figure path
 % \graphicspath{{./figures/}}

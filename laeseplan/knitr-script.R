@@ -5,3 +5,4 @@ knit('laeseplan.Rmd')
 
 # Lav pdf
 pandoc('laeseplan.md', format='latex')
+
