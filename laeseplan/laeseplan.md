@@ -17,7 +17,7 @@ Det fordrer et teoretisk begrebsapparat og metodiske værktøjer, at kunne studere
 
 Den studerende vil efter at have fulgt faget være klædt bedre på til at forstå og applicere kriterier for at studere kausale relationer mellem sociale fænomener, koble kausale teorier til metodiske tilgange og identificere og diskutere styrker og svagheder ved forskellige typer af metodiske tilgange.
 
-Faget er bygget op omkring 15 undervisningsgange. Faget er et metodefag og vil dermed introducere forskellige emner med metodisk relevans. Hver undervisningsgang vil blive indledt med en præsentation af ugens emne, efterfulgt af diskussion af pensum og aktiviteter relateret til eksamen. Eksamen i faget er en seminaropgave, og flere af lektionerne vil være anvendelsesorienteret i forhold til seminaropgaven. Der er et samlet pensum på $\approx 1200$ sider. Dette giver en gennemsnitlig læsemængde på $\approx 80$ sider om ugen, men vil variere fra uge til uge. Pensum består af en række artikler og bogkapitler. Grundbogen i faget, der kan købes over [Amazon](http://www.amazon.co.uk/Experimental-Quasi-experimental-Designs-Generalised-Inference/dp/0395615569/) eller eller findes via [Bogpriser](http://www.bogpriser.dk/experimental-and-quasi-experimental-designs-for-generalized-causal-inference_william-r-shadish-jr?isbn=9780395615560), er:
+Faget er bygget op omkring 15 undervisningsgange. Faget er et metodefag og vil dermed introducere forskellige emner med metodisk relevans. Hver undervisningsgang vil blive indledt med en præsentation af ugens emne, efterfulgt af diskussion af pensum og aktiviteter relateret til eksamen. Eksamen i faget er en seminaropgave, og flere af lektionerne vil være anvendelsesorienteret i forhold til seminaropgaven. Der er et samlet pensum på $1200$ sider. Dette giver en gennemsnitlig læsemængde på $\approx 80$ sider om ugen, men vil variere fra uge til uge. Pensum består af en række artikler og bogkapitler. Grundbogen i faget, der kan købes over [Amazon](http://www.amazon.co.uk/Experimental-Quasi-experimental-Designs-Generalised-Inference/dp/0395615569/) eller eller findes via [Bogpriser](http://www.bogpriser.dk/experimental-and-quasi-experimental-designs-for-generalized-causal-inference_william-r-shadish-jr?isbn=9780395615560), er:
 
 - @shadishetal2002: Experimental and Quasi-Experimental Designs for Generalized Causal Inference
 
@@ -148,7 +148,7 @@ Forelæsningens aktuelle emne vil være en diskussion af, hvad man man tilskrive s
 
 ## L04: Kausalmodeller II: Validitetstypologi (22. feb)
 
-Kausalitet studeres ikke udelukkende med refence til potentielle udfald, men også validitet. Her vil vi først introduceres for nogle ligheder og forskelle mellem potentielle udfald og validitet, hvorfefter vi skal diskutere fire typer af validitet (statistisk intern, konstruktions- og ekstern validitet), og hvordan de hver især er vigtige for kausale analyser såvel som for hinanden. 
+Kausalitet studeres ikke udelukkende med refence til potentielle udfald, men også validitet. Her vil vi først introduceres for nogle ligheder og forskelle mellem potentielle udfald og validitet, hvorfefter vi skal diskutere fire typer af validitet (statistisk intern, konstruktions- og ekstern validitet), og hvordan de hver især er vigtige for kausale analyser såvel som for hinanden.
 
 Det overordnede fokus vil være på forskellige validitetstrusler, altså potentielle alternative forklaringer, der vil kunne føre til fejlagtige konklusioner. Der er 102 siders læsning til nærværende lektion. Kapitel 1 i @shadishetal2002 kan dog læses kursorisk.
 
@@ -384,7 +384,7 @@ _Vil blive tilføjet senere._
 
 *Påkrævet læsning*:
 
-- Seminaropgaver (_ukendt antal sider_)
+- Seminaropgaver (omkring 100 sider)
 
 *Anbefalet læsning*:
 
