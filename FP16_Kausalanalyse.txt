@@ -1,0 +1,48 @@
+Kausalanalyse i offentlig politik, scient.pol., foråret 2016
+
+Antal sider: 1200
+
+Bøger:
+- Imbens, G. W., and D. B. Rubin. 2015. Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction. Cambridge University Press. (40 sider)
+- Morgan, S. L., and C. Winship. 2007. Counterfactuals and Causal Inference: Methods and Principles for Social Research. Cambridge: Cambridge University Press. (25 sider)
+- Shadish, W. R., T. D. Cook, and D. T. Campbell. 2002. Experimental and Quasi-Experimental Designs for Generalized Causal Inference. Wadsworth Cengage Learning. (350 sider)
+
+Bogkapitler:
+- Brady, H. E. 2008. “Causation and Explanation in Social Science.” In Oxford Handbook of Political Methodology, eds. J. M. Box-Steffensmeier, H. E. Brady, and D. Collier. New York: Oxford University Press, 217–70. (54 sider)
+- Knight, C. R., and C. Winship. 2013. “The Causal Implications of Mechanistic Thinking: Identification Using Directed Acyclic Graphs (DAGs).” In Handbook of Causal Analysis for Social Research, ed. S. L. Morgan. Springer, 275–99. (25 sider)
+- Shadish, W. R., and K. J. Sullivan. 2012. “Theories of Causation in Psychological Science.” In APA Handbook of Research Methods in Psychology: Vol. 1. Foundations, Planning, Measures, and Psychometrics, ed. H. Cooper. American Psychological Association, 23–52. (30 sider)
+- Smaldino, P. E. 2016. “Models Are Stupid, and We Need More of Them.” In Computational Models in Social Psychology, eds. R. R. Vallacher, A. Nowak, and S. J. Read. Psychology Press. http://smaldino.com/wp/wp-content/uploads/2016/01/Smaldino_ModelsAreStupid_v4.pdf. (19 sider)
+- Valentine, J. C. 2012. “Meta-Analysis.” In APA Handbook of Research Methods in Psychology: Vol. 3. Data Analysis and Research Publication, ed. H. Cooper. American Psychological Association, 485–99. (15 sider)
+
+Artikler:
+- Abadie, A., A. Diamond, and J. Hainmueller. 2015. “Comparative Politics and the Synthetic Control Method.” American Journal of Political Science 59(2): 495–510. (16 sider)
+- Adcock, R., and D. Collier. 2001. “Measurement Validity: A Shared Standard for Qualitative and Quantitative Research.” American Political Science Review 95(3): 529–46. (18 sider)
+- BDO. 2014a. “Analyse Af Jobcentrenes Ressourceforbrug - Ledelsesresume.” http://bm.dk/~/media/BEM/Files/Dokumenter/Kort%20nyt/2014/Analyse%20af%20Jobcentre%20%20Ledelsesresumefinal%202pdf. (13 sider)
+- BDO. 2014b. “Fra Udsat Til Ansat - Virkeligheden Taeller.” http://www.bdo.dk/media/6570067/a4_bdo_rap_topvirk_2015.pdf. (68 sider)
+- Blom-Hansen, J., and S. Serritzlew. 2014. “Endogenitet Og Eksperimenter - Forskningsdesignet Som Løsning.” politica 46(1): 5–23. (19 sider)
+- Blom-Hansen, J., R. Morton, and S. Serritzlew. 2015. “Experiments in Public Management Research.” International Public Management Journal 18(2): 151–70. (1 side)
+- Burstein, P. 2003. “The Impact of Public Opinion on Public Policy: A Review and an Agenda.” Political Research Quarterly 56(1): 29–40. (12 sider)
+- Druckman, J. N., and A. Lupia. 2012. “Experimenting with Politics.” Science 335(6073): 1177–79. (3 sider)
+- Dunning, T. 2008. “Improving Causal Inference: Strengths and Limitations of Natural Experiments.” Political Research Quarterly 61(2): 282–93. (12 sider)
+- Finansministeriet. 2014. “Aftale Om Kommunernes Konomi for 2015.” http://www.fm.dk/~/media/files/nyheder/pressemeddelelser/2014/06/aftale-om-kommunernes-oekonomi-for.pdf. (1 side)
+- Gautier, P., P. Muller, B. van der Klaauw, M. Rosholm, and M. Svarer. 2016. “Estimating Equilibrium Effects of Job Search Assistance.” https://sites.google.com/site/pietgautier/DanishExp.pdf. (49 sider)
+- Gentzkow, M., and J. M. Shapiro. 2014. “Code and Data for the Social Sciences: A Practitioner’s Guide.” http://web.stanford.edu/~gentzkow/research/CodeAndData.pdf. (45 sider)
+- Greiner, D. J., and D. B. Rubin. 2011. “Causal Effects of Perceived Immutable Characteristics.” Review of Economics and Statistics 93(3): 775–85. (11 sider)
+- Hansen, H., and M. Pontoppidan. 2014. “Erfaringer Med RCT-Studier På Det Sociale Område.” http://www.sfi.dk/Files/Filer/SFI/Pdf/Notater/Notat_Erfaringer-med-RCT.pdf. (38 sider)
+- Healy, K. 2015. “Fuck Nuance.” http://kieranhealy.org/files/papers/fuck-nuance.pdf. (12 sider)
+- Herrnson, P. S. 1995. “Replication, Verification, Secondary Analysis, and Data Collection in Political Science.” PS: Political Science & Politics 28(3): 452–55. (4 sider)
+- Herrera, Y. M., and D. Kapur. 2007. “Improving Data Quality: Actors, Incentives, and Capabilities.” Political Analysis 15(4): 365–86. (22 sider)
+- Harrison, F. 2011. “Getting Started with Meta-Analysis.” Methods in Ecology and Evolution 2(1): 1–10. (10 sider)
+- Jakobsen, M. 2013. “Can Government Initiatives Increase Citizen Coproduction? Results of a Randomized Field Experiment.” Journal of Public Administration Research and Theory 23(1): 27–54. (28 sider)
+- Justesen, M. K., and R. Klemmensen. 2014. “Sammenligning Af Sammenlignelige Observationer: kausalitet, Matching Og Observationsdata.” politica 46(1): 60–78. (19 sider)
+- Kerr, N. L. 1998. “HARKing: Hypothesizing After the Results Are Known.” Personality and Social Psychology Review 2(3): 196–217. (22 sider)
+- King, G. 1995. “Replication, Replication.” PS: Political Science & Politics 28(3): 442–52. (9 sider)
+- Knopf, J. W. 2006. “Doing a Literature Review.” PS: Political Science & Politics 39(1): 127–32. (6 sider)
+- LG Insight. 2014. “Den Bedste Integration: Effektive Beskæftigelsesfaglige Integrationsindsatser for Etniske Minoriteter Fra Ikke-Vestlige Lande.” http://www.integrationsviden.dk/beskaeftigelse/aktiv%20indsats/den-bedste-integration-effektive-beskaeftigelses@@edit/++widget++files/0/@@download/LG%20Insight%20effektive%20integrationsindsats.pdf. (3 sider)
+- Nielsen, R. A. 2014. “Case Selection via Matching.” Sociological Methods & Research. (29 sider)
+- Nordjyske. 2015. “Aftale På Borgen Godt Nyt for Topvirk.” http://nordjyske.dk/nyheder/aftale-paa-borgen-godt-nyt-for-topvirk/ce5b65fe-4670-47df-a990-02331094ac25/112/1513. (1 side)
+- Open Science Collaboration. 2015. “Estimating the Reproducibility of Psychological Science.” Science 349(6251): 1–9. (9 sider)
+- Robinson, G., J. E. McNulty, and J. S. Krasno. 2009. “Observing the Counterfactual? The Search for Political Experiments in Nature.” Political Analysis 17(4): 341–57. (17 sider)
+- Stoker, G. 2010. “Translating Experiments into Policy.” The ANNALS of the American Academy of Political and Social Science 628(1): 47–58. (12 sider)
+- Wallace, J. L. 2016. “Juking the Stats? Authoritarian Information Problems in China.” British Journal of Political Science 46(1): 11–29. (19 sider)
+- Watts, D. J. 2014. “Common Sense and Sociological Explanations.” American Journal of Sociology 120(2): 313–51. (12 sider)
