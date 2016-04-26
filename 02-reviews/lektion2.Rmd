@@ -406,6 +406,14 @@ output:
 
 ![](fig/publicopinionreview.png)
 
+# Eksempel: Effekten af flere valgmuligheder (Scheibehenne et al. [2010](http://jcr.oxfordjournals.org/content/37/3/409))
+
+![](fig/valgmuligheder.png)
+
+# Eksempel: Politikernes brug af twitter (Jungherr [2016](http://www.tandfonline.com/doi/abs/10.1080/19331681.2015.1132401))
+
+![](fig/twitter.png)
+
 # Eksempel: Mediernes formidling af meningsmålinger (Larsen og Straubinger [2012](http://erikgahner.dk/pub/2012meningsmaalinger.pdf))
 
 - Spørgsmål: Formidler medierne metodiske informationer fra meningsmålinger?
