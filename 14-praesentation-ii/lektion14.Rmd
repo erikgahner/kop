@@ -1,0 +1,72 @@
+---
+title: "Præsentation af seminaropgave, part II"
+author: "Erik Gahner Larsen"
+date: "Kausalanalyse i offentlig politik"
+output: 
+  beamer_presentation
+---
+
+```{r include=FALSE}
+options(digits=3)
+library("ggplot2")
+```
+
+# Eksamen og vejledning
+
+- Dato for aflevering: **2. juni, klokken 12.00**
+
+- Vejledning I: Mandag 9. maj efter klokken 13
+
+- Tentativ udgave af seminaropgave: Søndag 15. maj
+
+- Vejledning II: Mandag 23. maj 
+
+
+# Vejledning
+
+- Mandag 9. maj (næste uge)
+
+- Fra klokken 13 og frem
+
+- Vejledning: Send det I har _før_ fredag klokken 20
+
+- Oversigt over tidspunkter bliver lagt op på BlackBoard lørdag
+
+# Evaluering
+
+- Semesterets undervisningsevaluering
+
+- Evalueringsperioden er begyndt
+    - Har alle fået en mail?
+
+- Løber frem til og med søndag d. 8. maj
+
+# Add on I: AGORA
+
+- Tid: På onsdag d. 4. maj 
+    - Hele dagen fra kl. 08.45 (al undervisning er aflyst)
+
+- Sted: SDU O100 - ved hovedindgangen
+
+- Yderligere oplysninger på [https://www.facebook.com/AGORASDU/](https://www.facebook.com/AGORASDU/)
+
+# Add on II: Introduktion til R
+
+- Tirsdag d. 21. juni
+    
+# Dagsorden
+
+- Præsentation af seminaropgaver
+
+# Præsentation af seminaropgaver
+
+- Kort præsentation
+
+- Feedback og kommentarer
+
+# Næste gang
+
+- Afslutning
+
+- Mandag, kl. 10-12 i U31A
+
