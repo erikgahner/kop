@@ -378,7 +378,7 @@ Replikationer er afgørende for videnskaben. Ét studie er aldrig konkluderende og
 
 ## L14: Seminaropgave V: Præsentation af seminaropgave, part 2 (2. maj)
 
-_Vil blive tilføjet senere._
+I denne lektion vil fokus være på at få præsenteret seminaropgaverne. 
 
 *Tid og sted*: Mandag, kl. 10-12 i U31A
 
