@@ -41,7 +41,11 @@ Der er en række deadlines, den studerende anbefales at følge. Mere specifikt anb
 
 - 30. april: 10 sider. En litteraturgennemgang og beskrivelse af seminaropgavens bidrag, herunder teoretiske og metodiske overvejelser.
 
+- 9. maj: Individuel vejledning I
+
 - 15. maj: 15 sider. En tentativ udgave af seminaropgaven.
+
+- 23. maj: Individuel vejledning II
 
 - 2. juni, klokken 12:00: Aflevering. Hvis man skriver alene, skal der afleveres 20 sider. Hvis man skriver to sammen, skal der afleveres 30 sider.
 
@@ -408,7 +412,7 @@ Sidste lektion vil blive brugt på at samle op på det, vi har gennemgået i løbet 
 
 - @hansenpontoppidan2014: Erfaringer med RCT-studier på det sociale område (19 sider)
 
-## Add on II: Introduktion til R (TBA)
+## Add on II: Introduktion til R (21. juni)
 
 Til flere og flere jobs i den offentlige sektor giver det en fordel, hvis man kan bruge R. I dette add on gives en introduktion til R. Mere information følger så snart eksamensdatoen er på plads (altså afleveringsdatoen for seminaropgaven).
 
