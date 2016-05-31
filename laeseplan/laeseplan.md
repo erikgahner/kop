@@ -51,7 +51,7 @@ Der er en række deadlines, den studerende anbefales at følge. Mere specifikt anb
 
 # Undervisningsgange
 
-Faget består af tre kategorier af undervisningsgange,Den ene kategori beskæftiger sig med teoretiske modeller for studiet af kausalitet. Den anden kategori beskæftiger sig med metodiske tilgange til studiet af kausale sammenhænge. Den tredje kategori beskæftiger sig med de emner, der er af direkte relevans for den studerendes seminaropgave. Til lektion er der en række påkrævne og anbefalede tekster. Det forudsættes at den studerende har læst de påkrævede tekster forud for hver lektion (nogle af disse kan dog læses kursorisk, hvor dette er angivet), mens de anbefalede tekster er referencer, der kan følges, skulle man have lyst til at fordybe sig yderligere i pensum.
+Faget består af tre kategorier af undervisningsgange. Den ene kategori beskæftiger sig med teoretiske modeller for studiet af kausalitet. Den anden kategori beskæftiger sig med metodiske tilgange til studiet af kausale sammenhænge. Den tredje kategori beskæftiger sig med de emner, der er af direkte relevans for den studerendes seminaropgave. Til lektion er der en række påkrævne og anbefalede tekster. Det forudsættes at den studerende har læst de påkrævede tekster forud for hver lektion (nogle af disse kan dog læses kursorisk, hvor dette er angivet), mens de anbefalede tekster er referencer, der kan følges, skulle man have lyst til at fordybe sig yderligere i pensum.
 
 ## L01: Teori og metode i offentlig politik (1. feb)
 
